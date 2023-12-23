@@ -1,0 +1,4 @@
+username,firstName,lastName,email,password,phone,userStatus
+us1,some_name1,some_last_name1,some_email1,some_password1,some_phone1,1
+us2,some_name2,some_last_name2,some_email2,some_password2,some_phone2,2
+us3,some_name3,some_last_name3,some_email3,some_password3,some_phone3,3
